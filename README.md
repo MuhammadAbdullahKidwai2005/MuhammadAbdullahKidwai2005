@@ -8,16 +8,16 @@
 
 <table align="center">
   <tr>
-    <td>
-      <h3 align="center">📌 About Me</h3>
-      <p align="center">
+    <td align="center">
+      <h3>📌 About Me</h3>
+      <p>
         I'm Muhammad Abdullah, a passionate Data Analyst focused on transforming raw datasets into actionable insights.<br>
         With a strong grip on Python, SQL, and data visualization tools, I love uncovering patterns in complex data.<br><br>
         I’ve worked on analyzing trends, building dashboards, and creating models — always with clarity and impact in mind.
       </p>
     </td>
     <td>
-      <img align="right" src="https://media.giphy.com/media/fn3U6HZqTgqkk/giphy.gif" width="300"/>
+      <img src="https://media.tenor.com/02kWnJKht9sAAAAC/loading-data.gif" width="300" alt="Loading Data GIF"/>
     </td>
   </tr>
 </table>
