@@ -88,5 +88,4 @@ Meanwhile, I continue to refine my use of <strong>PowerPoint</strong> and <stron
 
 <p align="center" style="font-size: 20px;"><em>
 "Without data, you're just another person with an opinion."  
-</em>— W. Edwards Deming
-</p>
+</em></p>
