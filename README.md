@@ -1,23 +1,24 @@
-<!-- Animated Typing Intro -->
+<h1 align="center" style="color: white;">Hi!<strong></strong> I'm Muhammad Abdullah Kidwai</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Muhammad+Abdullah+Kidwai;Data+Analyst+%7C+ML+Explorer+%7C+Insight+Generator" alt="Typing SVG" />
+  <strong>🚀</strong> Data Analyst &nbsp; | &nbsp; <strong>📊</strong> Insight Generator &nbsp; | &nbsp; <strong>🤖</strong> Machine Learning Explorer
 </p>
 
 ---
 
 <h2 align="center">📌 About Me</h2>
 
-<p align="center">
-I'm Muhammad Abdullah, a passionate Data Analyst focused on transforming raw datasets into actionable insights.<br>
+<p align="center" style="font-size: 18px;">
+I'm Muhammad Abdullah, a passionate Data Analyst focused on transforming raw datasets into actionable insights. 
 With a strong grip on data visualization, SQL, and Python, I enjoy solving real-world problems using statistical reasoning and analytical tools.
 </p>
 
-<p align="center">
+<p align="center" style="font-size: 18px;">
 I’ve worked on analyzing trends, building dashboards, and creating machine learning models — always with a focus on clarity and purpose. 
 My goal is to make data understandable, decisions smarter, and stories more visual.
 </p>
 
-<p align="center">
+<p align="center" style="font-size: 18px;">
 Outside of the analytics world, I enjoy mentoring juniors, contributing to open-source projects, and staying updated with the latest in tech.
 </p>
 
@@ -29,7 +30,6 @@ Outside of the analytics world, I enjoy mentoring juniors, contributing to open-
 
 <h2 align="center">🧠 Tech & Tools</h2>
 
-<!-- Pyramid layout with color badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
@@ -56,15 +56,15 @@ Outside of the analytics world, I enjoy mentoring juniors, contributing to open-
 
 <h2 align="center">🚧 Currently Learning</h2>
 
-<p align="center">
+<p align="center" style="font-size: 18px;">
 I'm sharpening my skills in <strong>Seaborn</strong> for expressive visualizations, exploring <strong>MySQL</strong> and <strong>Oracle</strong> for relational database mastery, and streamlining <strong>Jupyter Notebook</strong> workflows.
 </p>
 
-<p align="center">
+<p align="center" style="font-size: 18px;">
 I’m diving deeper into <strong>Exploratory Data Analysis (EDA)</strong> to uncover patterns, trends, and anomalies — and communicate them through impactful storytelling.
 </p>
 
-<p align="center">
+<p align="center" style="font-size: 18px;">
 I’m also refining my use of <strong>PowerPoint</strong> and <strong>C++</strong> for effective communication and backend development logic.
 </p>
 
@@ -86,9 +86,7 @@ I’m also refining my use of <strong>PowerPoint</strong> and <strong>C++</stron
 
 ---
 
-<h2 align="center">💡 Quote of the Day</h2>
 
-<p align="center">
-  <strong>"Without data, you're just another person with an opinion."</strong><br>
-  — W. Edwards Deming
-</p>
+
+<p align="center" style="font-size: 40px; font-style: bold; color: #00f7ff;">
+  "Without data, you're just another person with an opinion."</p>
