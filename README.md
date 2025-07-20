@@ -1,11 +1,18 @@
-<h1 align="center" style="color: white;">Hey there! <strong>👋</strong> I'm Muhammad Abdullah Kidwai</h1>
+<!-- INTRO -->
+<h1 align="center">
+  <span style="color: #ffffff;">Hey there! 👋 I'm</span> 
+  <span style="color: #00f7ff; font-weight: bold; animation: pulse 2s infinite;">
+    Muhammad Abdullah Kidwai
+  </span>
+</h1>
 
 <p align="center">
-  <strong>🚀</strong> Data Analyst &nbsp; | &nbsp; <strong>📊</strong> Insight Generator &nbsp; | &nbsp; <strong>🤖</strong> Machine Learning Explorer
+  🚀 <strong>Data Analyst</strong> &nbsp; | &nbsp; 📊 <strong>Insight Generator</strong> &nbsp; | &nbsp; 🤖 <strong>Machine Learning Explorer</strong>
 </p>
 
 ---
 
+<!-- ABOUT -->
 <h2 align="center">📌 About Me</h2>
 
 <p align="center" style="font-size: 18px;">
@@ -28,6 +35,7 @@ Outside of the analytics world, I enjoy mentoring juniors, contributing to open-
 
 ---
 
+<!-- TECH & TOOLS -->
 <h2 align="center">🧠 Tech & Tools</h2>
 
 <p align="center">
@@ -54,6 +62,7 @@ Outside of the analytics world, I enjoy mentoring juniors, contributing to open-
 
 ---
 
+<!-- LEARNING -->
 <h2 align="center">🚧 Currently Learning</h2>
 
 <p align="center" style="font-size: 18px;">
@@ -70,6 +79,7 @@ I’m also refining my use of <strong>PowerPoint</strong> and <strong>C++</stron
 
 ---
 
+<!-- CONNECT -->
 <h2 align="center">📬 Let’s Connect</h2>
 
 <p align="center">
@@ -86,7 +96,18 @@ I’m also refining my use of <strong>PowerPoint</strong> and <strong>C++</stron
 
 ---
 
+<!-- QUOTE -->
+<h2 align="center">💡 Quote of the Day</h2>
 
+<p align="center" style="font-size: 24px; font-weight: bold; color: #00f7ff;">
+  "Without data, you're just another person with an opinion."
+</p>
 
-<p align="center" style="font-size: 40px; font-style: bold; color: #00f7ff;">
-  "Without data, you're just another person with an opinion."</p>
+<!-- GLOWING NAME ANIMATION STYLE -->
+<style>
+@keyframes pulse {
+  0% { opacity: 1; }
+  50% { opacity: 0.6; }
+  100% { opacity: 1; }
+}
+</style>
