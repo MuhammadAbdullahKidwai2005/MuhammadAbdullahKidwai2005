@@ -1,7 +1,7 @@
-<h1 align="center">Hey there! 👋 I'm Muhammad Abdullah Kidwai</h1>
+<h1 align="center">Hey there! <strong>👋</strong> I'm Muhammad Abdullah Kidwai</h1>
 
 <p align="center">
-  🚀 Data Analyst &nbsp; | &nbsp; 📊 Insight Generator &nbsp; | &nbsp; 🤖 Machine Learning Explorer
+  <strong>🚀</strong> Data Analyst &nbsp; | &nbsp; <strong>📊</strong> Insight Generator &nbsp; | &nbsp; <strong>🤖</strong> Machine Learning Explorer
 </p>
 
 ---
@@ -65,7 +65,21 @@ Meanwhile, I continue to refine my use of <strong>PowerPoint</strong> and <stron
 <h2 align="center">📬 Let’s Connect</h2>
 
 <p align="center">
-  <a href="mailto:abdullahkidwai45@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/muhammad-abdullah-kidwai-8977462a4"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/MuhammadAbdullahKidwai2005"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:abdullahkidwai45@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-abdullah-kidwai-8977462a4">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/MuhammadAbdullahKidwai2005">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<h2 align="center">💡 Quote of the Day</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=1000&lines=Data+is+the+new+oil%2C+but+insight+is+the+refined+fuel.;Turning+information+into+decisions+is+my+superpower!;Data+never+lies+–+it+just+needs+the+right+question." alt="Data Science Quote Typing"/>
 </p>
