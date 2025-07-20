@@ -81,5 +81,5 @@ Meanwhile, I continue to refine my use of <strong>PowerPoint</strong> and <stron
 <h2 align="center">💡 Quote of the Day</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=1000&lines=Data+is+the+new+oil%2C+but+insight+is+the+refined+fuel.;Turning+information+into+decisions+is+my+superpower!;Data+never+lies+–+it+just+needs+the+right+question." alt="Data Science Quote Typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=1000&lines=Data+is+the+new+oil%2C+but+insight+is+the+refined+fuel.;Turning+information+into+decisions+is+my+superpower!;Data+never+lies+–+it+just+needs+the+right+question." alt="Quote Animation" />
 </p>
