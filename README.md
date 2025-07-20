@@ -1,4 +1,4 @@
-<h1 align="center" style="color:white;">Hey there! <strong>👋</strong> I'm Muhammad Abdullah Kidwai</h1>
+<h1 align="center">Hey there! <strong>👋</strong> I'm Muhammad Abdullah Kidwai</h1>
 
 <p align="center">
   <strong>🚀</strong> Data Analyst &nbsp; | &nbsp; <strong>📊</strong> Insight Generator &nbsp; | &nbsp; <strong>🤖</strong> Machine Learning Explorer
@@ -6,14 +6,14 @@
 
 ---
 
-<h2 align="center" style="color:white;">📌 About Me</h2>
+<h2 align="center">📌 About Me</h2>
 
-<p align="center" style="font-size: 18px; color:lightgray;">
+<p align="center" style="font-size: 18px;">
 I'm Muhammad Abdullah, a passionate Data Analyst focused on transforming raw datasets into actionable insights. 
 With a strong grip on data visualization, SQL, and Python, I enjoy solving real-world problems using statistical reasoning and analytical tools.
 </p>
 
-<p align="center" style="font-size: 18px; color:lightgray;">
+<p align="center" style="font-size: 18px;">
 I’ve worked on analyzing trends, building dashboards, and creating machine learning models — always with a focus on clarity and purpose.
 </p>
 
@@ -23,9 +23,9 @@ I’ve worked on analyzing trends, building dashboards, and creating machine lea
 
 ---
 
-<h2 align="center" style="color:white;">🧠 Tech & Tools</h2>
+<h2 align="center">🧠 Tech & Tools</h2>
 
-<!-- PYRAMID STRUCTURE -->
+<!-- Pyramid layout -->
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
@@ -54,23 +54,23 @@ I’ve worked on analyzing trends, building dashboards, and creating machine lea
 
 ---
 
-<h2 align="center" style="color:white;">🚧 Currently Learning</h2>
+<h2 align="center">🚧 Currently Learning</h2>
 
-<p align="center" style="font-size: 18px; color:lightgray;">
+<p align="center" style="font-size: 18px;">
 I'm improving my skills in <strong>Seaborn</strong> for expressive visualizations, exploring <strong>MySQL</strong> and <strong>Oracle</strong> for relational database mastery, and focusing on cleaner <strong>Jupyter Notebook</strong> workflows.
 </p>
 
-<p align="center" style="font-size: 18px; color:lightgray;">
+<p align="center" style="font-size: 18px;">
 I’m also diving deeper into <strong>Exploratory Data Analysis (EDA)</strong> to uncover trends, detect outliers, and deliver more impactful insights.
 </p>
 
-<p align="center" style="font-size: 18px; color:lightgray;">
+<p align="center" style="font-size: 18px;">
 Meanwhile, I continue to refine my use of <strong>PowerPoint</strong> and <strong>C++</strong> for effective presentations and backend logic.
 </p>
 
 ---
 
-<h2 align="center" style="color:white;">📬 Let’s Connect</h2>
+<h2 align="center">📬 Let’s Connect</h2>
 
 <p align="center">
   <a href="mailto:abdullahkidwai45@gmail.com">
@@ -86,8 +86,8 @@ Meanwhile, I continue to refine my use of <strong>PowerPoint</strong> and <stron
 
 ---
 
-<h2 align="center" style="color:white;">💡 Quote of the Day</h2>
+<h2 align="center">💡 Quote of the Day</h2>
 
-<p align="center" style="font-size: 22px; color:#00f7ff;"><em><strong>
-"Without data, you're just another person with an opinion."
-</strong></em></p>
+<p align="center" style="background-color:#1e1e1e; padding: 15px; border-radius: 10px; color: #f5f5f5; font-size: 24px; font-style: italic; font-family: 'Courier New', Courier, monospace;">
+  "Without data, you're just another person with an opinion."
+</p>
