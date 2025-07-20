@@ -86,8 +86,7 @@ I’m also refining my use of <strong>PowerPoint</strong> and <strong>C++</stron
 
 ---
 
-<h2 align="center">💡 Quote of the Day</h2>
 
-<p align="center" style="font-size: 20px; font-style: italic; color: #00f7ff;">
-  "Without data, you're just another person with an opinion." — W. Edwards Deming
-</p>
+
+<p align="center" style="font-size: 40px; font-style: bold; color: #00f7ff;">
+  "Without data, you're just another person with an opinion."</p>
