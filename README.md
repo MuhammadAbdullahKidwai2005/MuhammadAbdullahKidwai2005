@@ -1,15 +1,13 @@
-<h1 align="center">Hey there! 👋 I'm Muhammad Abdullah Kidwai</h1>
-
-<p align="center">
-  🚀 <b>Data Analyst</b> | 📊 <b>Insight Generator</b> | 🤖 <b>Machine Learning Explorer</b>
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Hey+there!+👋+I'm+Muhammad+Abdullah+Kidwai;🚀+Data+Analyst+%7C+📊+Insight+Generator+%7C+🤖+ML+Explorer" alt="Typing Intro" />
+</h1>
 
 ---
 
 ### <p align="center">📌 About Me</p>
 
 <p align="center">
-I'm Muhammad Abdullah, a passionate Data Analyst focused on transforming raw datasets into actionable insights. With a strong grip on data visualization, SQL, and Python, I enjoy solving real-world problems using statistical reasoning and analytical tools.  
+I'm Muhammad Abdullah, a passionate Data Analyst focused on transforming raw datasets into actionable insights. With a strong grip on data visualization, SQL, and Python, I enjoy solving real-world problems using statistical reasoning and analytical tools.
 </p>
 
 <p align="center">
@@ -17,7 +15,7 @@ I’ve worked on analyzing trends, building dashboards, and creating machine lea
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmx4c3k1Y21mZXg4NHE3dHd5YTZhdzZ1ZGh6MmNyeXd6eHV3Y3FrMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7aCVpQb19nIuVFdK/giphy.gif" width="450" alt="Data Analysis Gif"/>
+  <img src="https://media.giphy.com/media/4H3Ii5eLChYul9p0zF/giphy.gif" width="400" alt="About Me GIF" />
 </p>
 
 ---
@@ -82,5 +80,5 @@ I’m also integrating tools like <b>Microsoft PowerPoint</b> and <b>C++</b> int
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Turning+data+into+decisions...;And+ideas+into+insights." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Turning+data+into+decisions...;And+ideas+into+insights." alt="Quote Typing SVG" />
 </p>
