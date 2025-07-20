@@ -1,4 +1,4 @@
-<h1 align="center" style="font-size: 42px;">Hey there! 👋 I'm Muhammad Abdullah Kidwai</h1>
+<h1 align="center">Hey there! 👋 I'm Muhammad Abdullah Kidwai</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=🚀+Data+Analyst+%7C+📊+Insight+Generator+%7C+🤖+ML+Explorer" alt="Typing SVG" />
@@ -6,7 +6,7 @@
 
 ---
 
-<h2 align="center" style="font-size: 30px;">📌 About Me</h2>
+<h2 align="center">📌 About Me</h2>
 
 <p align="center" style="font-size: 18px;">
 I'm Muhammad Abdullah, a passionate Data Analyst focused on transforming raw datasets into actionable insights. 
@@ -23,7 +23,7 @@ I’ve worked on analyzing trends, building dashboards, and creating machine lea
 
 ---
 
-<h2 align="center" style="font-size: 30px;">🧠 Tech & Tools</h2>
+<h2 align="center">🧠 Tech & Tools</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -46,7 +46,7 @@ I’ve worked on analyzing trends, building dashboards, and creating machine lea
 
 ---
 
-<h2 align="center" style="font-size: 30px;">🚧 Currently Learning</h2>
+<h2 align="center">🚧 Currently Learning</h2>
 
 <p align="center" style="font-size: 18px;">
 I'm improving my skills in <strong>Seaborn</strong> for expressive visualizations, exploring <strong>MySQL</strong> and <strong>Oracle</strong> for relational database mastery, and focusing on cleaner <strong>Jupyter Notebook</strong> workflows.
@@ -62,7 +62,7 @@ Meanwhile, I continue to refine my use of <strong>PowerPoint</strong> and <stron
 
 ---
 
-<h2 align="center" style="font-size: 30px;">📬 Let’s Connect</h2>
+<h2 align="center">📬 Let’s Connect</h2>
 
 <p align="center">
   <a href="mailto:abdullahkidwai45@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
