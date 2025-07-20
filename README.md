@@ -85,7 +85,8 @@ Meanwhile, I continue to refine my use of <strong>PowerPoint</strong> and <stron
 
 ---
 
+<h2 align="center">💡 Quote of the Day</h2>
 
-<p align="center" style="font-size: 20px;"><em>
-"Without data, you're just another person with an opinion."  
-</em></p>
+<p align="center" style="font-size: 22px; font-weight: bold; font-style: italic;">
+  "Without data, you're just another person with an opinion."
+</p>
