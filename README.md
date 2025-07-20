@@ -8,16 +8,16 @@
 
 <table align="center">
   <tr>
-    <td align="center">
+    <td align="center" width="60%">
       <h3>📌 About Me</h3>
-      <p>
-        I'm Muhammad Abdullah, a passionate Data Analyst focused on transforming raw datasets into actionable insights.<br>
+      <p align="center">
+        I'm Muhammad Abdullah, a passionate Data Analyst focused on transforming raw datasets into actionable insights.<br><br>
         With a strong grip on Python, SQL, and data visualization tools, I love uncovering patterns in complex data.<br><br>
         I’ve worked on analyzing trends, building dashboards, and creating models — always with clarity and impact in mind.
       </p>
     </td>
-    <td>
-      <img src="https://media.tenor.com/02kWnJKht9sAAAAC/loading-data.gif" width="300" alt="Loading Data GIF"/>
+    <td align="center" width="40%">
+      <img src="https://media.giphy.com/media/f9XgHH0Lj17mi/giphy.gif" width="280" alt="Data GIF" />
     </td>
   </tr>
 </table>
@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Exploratory%20Data%20Analysis-4CAF50?style=for-the-badge&logoColor=white"/><br><br>
+  <img src="https://img.shields.io/badge/EDA-4CAF50?style=for-the-badge&logoColor=white"/><br><br>
   <img src="https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </p>
@@ -63,5 +63,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=700&lines=**Turning+data+into+decisions**;**and+ideas+into+insights.**" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Turning+data+into+decisions...;and+ideas+into+insights." alt="Typing SVG" />
 </p>
