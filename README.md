@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&center=true&vCenter=true&width=800&lines=Hey+there!+👋+I'm+Muhammad+Abdullah+Kidwai;🚀+Data+Analyst+|+📊+Insight+Generator+|+🤖+ML+Explorer" alt="Typing Intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&center=true&vCenter=true&width=900&lines=Hey+there!+👋+I'm+Muhammad+Abdullah+Kidwai;🚀+Data+Analyst+|+📊+Insight+Generator+|+🤖+ML+Explorer" alt="Typing Intro">
 </h1>
 
 ---
@@ -12,7 +12,7 @@ I’ve worked on analyzing trends, building dashboards, and creating machine lea
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/9J7tdYltWyXIY/giphy.gif" width="400" alt="Data Analysis GIF" />
+  <img src="https://media.giphy.com/media/tXL4FHPSnVJ0A/giphy.gif" width="400" alt="Data Analytics GIF"/>
 </p>
 
 ---
@@ -35,7 +35,8 @@ I’ve worked on analyzing trends, building dashboards, and creating machine lea
 
 <h2 align="center">🚧 Currently Learning</h2>
 <p align="center">
-I'm sharpening skills in <strong>Seaborn</strong> for elegant visuals and using <strong>Jupyter Notebooks</strong> for organized, story-driven analysis. Diving deeper into <strong>MySQL</strong>/<strong>Oracle</strong> for advanced queries and mastering <strong>Exploratory Data Analysis (EDA)</strong> to uncover trends, outliers, and deeper insights.
+I'm sharpening skills in <strong>Seaborn</strong> for elegant visuals and using <strong>Jupyter Notebooks</strong> for organized, story-driven analysis.<br><br>
+Also diving deeper into <strong>MySQL</strong> and <strong>Oracle</strong> for advanced data querying and exploring <strong>Exploratory Data Analysis (EDA)</strong> to uncover patterns, trends, and insights within complex datasets.
 </p>
 
 ---
