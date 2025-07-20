@@ -26,10 +26,18 @@ I’ve worked on analyzing trends, building dashboards, and creating machine lea
 <h2 align="center">🧠 Tech & Tools</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white"/>
   <img src="https://img.shields.io/badge/Seaborn-0E4C92?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EDA-4CAF50?style=for-the-badge&logoColor=white"/>
 </p>
 
 <p align="center">
@@ -41,7 +49,6 @@ I’ve worked on analyzing trends, building dashboards, and creating machine lea
 <p align="center">
   <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/EDA-4CAF50?style=for-the-badge&logoColor=white"/>
 </p>
 
 ---
@@ -80,6 +87,7 @@ Meanwhile, I continue to refine my use of <strong>PowerPoint</strong> and <stron
 
 <h2 align="center">💡 Quote of the Day</h2>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=1000&lines=Data+is+the+new+oil%2C+but+insight+is+the+refined+fuel.;Turning+information+into+decisions+is+my+superpower!;Data+never+lies+–+it+just+needs+the+right+question." alt="Quote Animation" />
+<p align="center" style="font-size: 20px;"><em>
+"Without data, you're just another person with an opinion."  
+</em>— W. Edwards Deming
 </p>
