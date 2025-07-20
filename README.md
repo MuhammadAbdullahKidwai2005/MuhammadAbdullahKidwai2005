@@ -1,30 +1,30 @@
-<h2 align="center">Hey there! 👋 I'm Muhammad Abdullah Kidwai</h2>
+<h2 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Hey there! 👋 I'm Muhammad Abdullah Kidwai</h2>
 
-<p align="center">
+<p align="center" style="font-size: 18px;">
   🚀 Data Analyst | 📊 Insight Generator | 🤖 Machine Learning Explorer
 </p>
 
 ---
 
-<table align="center">
-  <tr>
-    <td align="center" width="60%">
-      <h3>📌 About Me</h3>
-      <p align="center">
-        I'm Muhammad Abdullah, a passionate Data Analyst focused on transforming raw datasets into actionable insights.<br><br>
-        With a strong grip on Python, SQL, and data visualization tools, I love uncovering patterns in complex data.<br><br>
-        I’ve worked on analyzing trends, building dashboards, and creating models — always with clarity and impact in mind.
-      </p>
-    </td>
-    <td align="center" width="40%">
-      <img src="https://media.giphy.com/media/f9XgHH0Lj17mi/giphy.gif" width="280" alt="Data GIF" />
-    </td>
-  </tr>
-</table>
+<h3 align="center">
+  <img src="https://em-content.zobj.net/source/microsoft-teams/337/round-pushpin_1f4cc.png" width="24"/> About Me
+</h3>
+
+<p align="center">
+  I'm Muhammad Abdullah, a passionate Data Analyst focused on transforming raw datasets into actionable insights.<br><br>
+  With a strong grip on Python, SQL, and data visualization tools, I love uncovering patterns in complex data.<br><br>
+  I’ve worked on analyzing trends, building dashboards, and creating models — always with clarity and impact in mind.
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/f9XgHH0Lj17mi/giphy.gif" width="280" alt="Data GIF" />
+</p>
 
 ---
 
-<h3 align="center">🧠 Tech & Tools</h3>
+<h3 align="center">
+  <img src="https://em-content.zobj.net/source/microsoft-teams/337/brain_1f9e0.png" width="24"/> Tech & Tools
+</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -52,7 +52,9 @@
 
 ---
 
-<h3 align="center">📬 Let’s Connect</h3>
+<h3 align="center">
+  <img src="https://em-content.zobj.net/source/microsoft-teams/337/envelope-with-arrow_1f4e9.png" width="24"/> Let’s Connect
+</h3>
 
 <p align="center">
   <a href="mailto:abdullahkidwai45@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
