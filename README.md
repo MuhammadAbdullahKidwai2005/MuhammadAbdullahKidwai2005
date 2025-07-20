@@ -1,9 +1,11 @@
-<!-- Animated Intro -->
+<h1 align="center" style="color: white;">Hey there! <strong>👋</strong> I'm Muhammad Abdullah Kidwai</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Muhammad+Abdullah+Kidwai;A+Data+Analyst+%7C+ML+Explorer+%7C+Insight+Generator" alt="Typing SVG" />
+  <strong>🚀</strong> Data Analyst &nbsp; | &nbsp; <strong>📊</strong> Insight Generator &nbsp; | &nbsp; <strong>🤖</strong> Machine Learning Explorer
 </p>
 
-<!-- About Me -->
+---
+
 <h2 align="center">📌 About Me</h2>
 
 <p align="center" style="font-size: 18px;">
@@ -20,12 +22,12 @@ My goal is to make data understandable, decisions smarter, and stories more visu
 Outside of the analytics world, I enjoy mentoring juniors, contributing to open-source projects, and staying updated with the latest in tech.
 </p>
 
-<!-- GIF -->
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Data GIF"/>
 </p>
 
-<!-- Tech & Tools -->
+---
+
 <h2 align="center">🧠 Tech & Tools</h2>
 
 <p align="center">
@@ -50,7 +52,8 @@ Outside of the analytics world, I enjoy mentoring juniors, contributing to open-
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </p>
 
-<!-- Currently Learning -->
+---
+
 <h2 align="center">🚧 Currently Learning</h2>
 
 <p align="center" style="font-size: 18px;">
@@ -65,7 +68,8 @@ I’m diving deeper into <strong>Exploratory Data Analysis (EDA)</strong> to unc
 I’m also refining my use of <strong>PowerPoint</strong> and <strong>C++</strong> for effective communication and backend development logic.
 </p>
 
-<!-- Let's Connect -->
+---
+
 <h2 align="center">📬 Let’s Connect</h2>
 
 <p align="center">
@@ -80,9 +84,9 @@ I’m also refining my use of <strong>PowerPoint</strong> and <strong>C++</stron
   </a>
 </p>
 
-<!-- Quote -->
-<h2 align="center">💡 Quote of the Day</h2>
+---
 
-<p align="center" style="font-size: 20px; font-weight: bold; color: #00f7ff;">
-  "Without data, you're just another person with an opinion." – W. Edwards Deming
-</p>
+
+
+<p align="center" style="font-size: 40px; font-style: bold; color: #00f7ff;">
+  "Without data, you're just another person with an opinion."</p>
