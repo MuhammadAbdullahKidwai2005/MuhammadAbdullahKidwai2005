@@ -1,11 +1,11 @@
-<h2 align="center">Hey there! 👋 I'm Muhammad Abdullah Kidwai</h2>
-<p align="center">
+<h1 align="center" style="font-size: 2.5rem;">Hey there! 👋 I'm Muhammad Abdullah Kidwai</h1>
+<p align="center" style="font-size: 1.2rem;">
   🚀 Data Analyst | 📊 Insight Generator | 🤖 Machine Learning Explorer  
 </p>
 
 ---
 
-### 📌 About Me
+<h2 style="font-size: 1.8rem;">📌 About Me <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50"/></h2>
 
 I'm Muhammad Abdullah, a passionate Data Analyst focused on transforming raw datasets into actionable insights. With a strong grip on data visualization, SQL, and Python, I enjoy solving real-world problems using statistical reasoning and analytical tools.
 
@@ -13,7 +13,7 @@ I’ve worked on analyzing trends, building dashboards, and creating machine lea
 
 ---
 
-### 🧠 Tech & Tools
+<h2 style="font-size: 1.8rem;">🧠 Tech & Tools</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -36,7 +36,7 @@ I’ve worked on analyzing trends, building dashboards, and creating machine lea
 
 ---
 
-### 🚧 Currently Learning
+<h2 style="font-size: 1.8rem;">🚧 Currently Learning</h2>
 
 While I’m confident using tools like **NumPy**, **Pandas**, and **Matplotlib**, I’m continuously growing my technical skillset to push boundaries and improve efficiency in data analysis.
 
@@ -48,7 +48,7 @@ On the side, I’m brushing up on **Microsoft PowerPoint** for cleaner presentat
 
 ---
 
-### 📬 Let’s Connect
+<h2 style="font-size: 1.8rem;">📬 Let’s Connect</h2>
 
 <p align="center">
   <a href="mailto:abdullahkidwai45@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -58,4 +58,6 @@ On the side, I’m brushing up on **Microsoft PowerPoint** for cleaner presentat
 
 ---
 
-> _"Turning data into decisions, and ideas into insights."_
+<p align="center">
+  <strong>"Turning data into decisions, and ideas into insights."</strong>
+</p>
